@@ -1,0 +1,11 @@
+{
+    "js" : {
+        "dashboard-v1" : "/dist/js/pages/dashboard.js",
+        "index" : "/dist/js/pages/index.js"
+    },
+    "database" : {
+        "config" : "/pages/database/config.php",
+        "project-add" : "/pages/database/project-add.php",
+        "index" : "/pages/database/index.php"
+    }
+}
